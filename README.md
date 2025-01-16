@@ -14,8 +14,8 @@ Users can easily search for properties based on specific criteria and directly c
 ## System Architecture
 
 ### 1. Backend
-Spring JPA: Provides a flexible, high-performance ORM framework for handling database transactions.
-Supabase: Cloud-based PostgreSQL database allowing real-time API access.
+- Spring JPA: Provides a flexible, high-performance ORM framework for handling database transactions.
+- Supabase: Cloud-based PostgreSQL database allowing real-time API access.
 ### 2. User Flow
 1. Home Page: Users can search for properties.
 2. Search Results: Displays properties matching the criteria.
